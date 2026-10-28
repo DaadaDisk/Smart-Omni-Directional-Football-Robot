@@ -23,7 +23,7 @@ CAM_W, CAM_H    = 640, 480
 IMGZ            = 736
 ORIGINAL_WIDTH  = 640          # width K/dist were calibrated on
 CONF_THRESHOLD  = 0.01
-MODEL_PATH      = "yolov8n_736.engine"
+MODEL_PATH      = "models/yolov8n_736.engine"
 VIDEO_PATH      = "0"
 
 CAMERA_HEIGHT   = 0.20
