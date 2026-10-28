@@ -1,8 +1,6 @@
 # Smart-Omni-Directional-Football-Robot
 An AI-powered omni-directional robot that detects and tracks a football using computer vision and YOLO on an NVIDIA Jetson Nano. It uses inverse kinematics to calculate wheel speeds and an Arduino Mega with encoder feedback and PID control to move toward the ball, using three omni wheels for movement in any direction.
 
-> **Current scope:** Ball detection, tracking, and autonomous approach. The robot does not kick the ball.
-
 ## How It Works
 
 1. **Ball Detection:** A camera streams frames to the Jetson Nano, where YOLO detects the ball.
