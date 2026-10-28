@@ -1,4 +1,5 @@
 # testOmniv2_clean.py
+#ver2 by Daada python3.6
 import os
 os.environ["OPENBLAS_CORETYPE"] = "ARMV8"
 os.environ["OMP_NUM_THREADS"] = "1"
