@@ -71,7 +71,7 @@ Make sure the camera is connected and the model path in `main.py` points to the 
 Run the application from the repository root:
 
 ```bash
-python3 src/jetson/main.py
+python3.6 src/jetson/main.py
 ```
 
 ### 3. Configuration
