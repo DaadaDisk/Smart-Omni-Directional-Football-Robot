@@ -49,8 +49,8 @@ An AI-powered omni-directional robot that detects and tracks a football using co
 │   ├── mechanical/
 │   └── electronics/
 ├── media/
-│   ├── photos/
-│   └── videos/
+│   
+│   
 └── docs/
 ```
 
